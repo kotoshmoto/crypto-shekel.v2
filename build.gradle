@@ -27,7 +27,6 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     implementation group: 'org.telegram', name: 'telegrambots-meta', version: '4.9.2'
-    implementation 'org.telegram:telegrambots-meta:4.9.2'
     implementation group: 'org.telegram', name: 'telegrambots-spring-boot-starter', version: '4.9.2'
 }
 
