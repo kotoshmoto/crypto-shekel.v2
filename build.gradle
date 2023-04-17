@@ -7,7 +7,7 @@ plugins {
 }
 
 apply plugin: 'application'
-mainClassName = 'com.example.crypto_shekel_bot_ver1.CryptoShekel'
+mainClassName = 'com.example.crypto_shekel_bot_ver1.CryptoShekelBotVer1Application'
 
 jar {
     manifest {
